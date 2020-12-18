@@ -4,8 +4,7 @@ import PIL
 import torch
 from torchvision import  transforms
 import os
-import model_loads as lo
-path=''
+
 
 class Inference:
     def __init__(self, save_model_filename="saved_weights.pt"):
