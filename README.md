@@ -1,7 +1,9 @@
 # DenseNet_Image_Classification
 Implementation of DenseNet image classification
 
-Step 1 Clone the file from git https://github.com/belsarej/DenseNet_Image_Classification.git
+Step 1 Clone the file from git using command git clone https://github.com/belsarej/DenseNet_Image_Classification.git
+
+![Alt text](/relative/data/de 1 screenshot.PNG?raw=true "Optional Title")
 
 Step 2 Open CMD on computer and go to root directory using command cd DenseNet_Image_Classification
 
