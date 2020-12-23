@@ -29,3 +29,6 @@ Additional step (If your env not ready then run requirements.txt after entering 
 
 
 #Step7  Click on upload and see result 
+
+
+![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/Capture.PNG)
