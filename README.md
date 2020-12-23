@@ -1,6 +1,8 @@
 # DenseNet_Image_Classification
 Implementation of DenseNet image classification
 
+### orignal training file for densenet Final_DenseNet_Implementation.ipynb
+
 #Step 1 Clone the file from git using command 
 
 git clone https://github.com/belsarej/DenseNet_Image_Classification.git
