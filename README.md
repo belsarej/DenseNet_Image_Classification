@@ -24,4 +24,6 @@ step6  Click on choose file and choose image for classififcation
 
 ![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/ds3.PNG)
 
+
+
 Step7  Click on upload and see result 
