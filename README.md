@@ -94,4 +94,4 @@ Turn on Automatic Deployment if needed
 
 Heroku in the background runs all the dependencies and installs them. For free version of heroku hosting the bundle size is limited to 500MB.
 
-Once everything goes well our model will be deployed and we can view our link beloy it
+Once everything goes well our model will be deployed and we can view our link deploy it
