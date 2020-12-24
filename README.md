@@ -29,7 +29,7 @@ DenseNet.xlsx Excel file has the Expermentitonal Results
 
 Final_DenseNet_implemntation.ipynb is the final model
 
-check our densenet deployment here https://github.com/belsarej/DenseNet_deployment
+
 
 
 ### DenseNet_Image_Classification
