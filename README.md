@@ -35,7 +35,7 @@ Additional step (If your env not ready then run requirements.txt after entering 
 
 ![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/Capture.PNG)
 
-##Deployment
+## Deployment
 
 We chose Heroku for deployement. Preparing the Repo for Heroku Deployment.
 
@@ -43,42 +43,36 @@ Heroku looks for 2 things
 
 Procfile - Intital file to run during deployment
 
-#Creates Procfile without any extensions
+# Creates Procfile without any extensions
 
 touch Procfile
 
-#Open in notepad and write the following
+# Open in notepad and write the following
 
 web: gunicorn app:app
 
 requirements.txt - To install dependencies
 
 
-flask==1.1.1
-
-gunicorn==20.0.4
-
-torch==1.4.0+cpu 
-
-torchvision==0.5.0+cpu 
-
 -f https://download.pytorch.org/whl/torch_stable.html
 
-Pillow==7.0.0
+flask
 
-numpy==1.15.4
+torch==1.7.0+cpu
 
-pandas==1.0.1
+torchvision==0.8.1+cpu
 
-matplotlib==3.1.3
+Pillow
 
-scikit-learn==0.22.2.post1
+numpy
 
-Jinja2==2.11.1
+tqdm
 
-tqdm==4.42.1
+gunicorn==19.9.0
 
-Following are the steps followed to deploy the model on to heroku
+requests==2.25.0
+
+# Following are the steps followed to deploy the model on to heroku
 
 Sign up for a free account at Heroku
 
