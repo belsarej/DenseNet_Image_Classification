@@ -20,7 +20,7 @@ DenseNet-BC(k=12,L=100)
 
 The No of Parameters in this Model is around 0.8 M which makes it easy to train and requires lesser computational power
 
-This repo consists of:
+This folder consists of:
 
 
 Different Data Augmentation we used in our experiments in Densenet_data_augmentation.ipynb 
