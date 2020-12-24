@@ -1,5 +1,5 @@
 # Densenet-implemetation
-We used CIFAR-10 dataset for our experiments with DenseNet Architecture.
+We used CIFAR-10 dataset for our experiments with DenseNet Architecture.(files presents in densenet impmentation folder)
 
 Hyper Parameters:
 
