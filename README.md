@@ -1,7 +1,8 @@
 # DenseNet_Image_Classification
+
 Implementation of DenseNet image classification
 
-### Orignal training file for densenet Final_DenseNet_Implementation.ipynb
+Orignal training file for densenet Final_DenseNet_Implementation.ipynb
 
 ### Step 1 Clone the file from git using command 
 
@@ -13,29 +14,29 @@ git clone https://github.com/belsarej/DenseNet_Image_Classification.git
 
 Additional step (If your env not ready then run requirements.txt after entering in folder command (pip install -r requirements.txt )
 
-# Step 3 Run command Python app.py
+### Step 3 Run command Python app.py
 
 ![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/ds%202.PNG)
 
-# Step4 Click on link http://127.0.0.1:5000
+### Step4 Click on link http://127.0.0.1:5000
 
 
 ![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/ds2.PNG)
 
 
-# Step6  Click on choose file and choose image for classififcation
+### Step6  Click on choose file and choose image for classififcation
 
 
 ![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/ds3.PNG)
 
 
 
-# Step7  Click on upload and see result 
+### Step7  Click on upload and see result 
 
 
 ![](https://github.com/belsarej/DenseNet_Image_Classification/blob/main/data/Capture.PNG)
 
-## Deployment
+### Deployment
 
 We chose Heroku for deployement. Preparing the Repo for Heroku Deployment.
 
@@ -43,11 +44,11 @@ Heroku looks for 2 things
 
 Procfile - Intital file to run during deployment
 
-# Creates Procfile without any extensions
+### Creates Procfile without any extensions
 
 touch Procfile
 
-# Open in notepad and write the following
+### Open in notepad and write the following
 
 web: gunicorn app:app
 
@@ -72,7 +73,7 @@ gunicorn==19.9.0
 
 requests==2.25.0
 
-# Following are the steps followed to deploy the model on to heroku
+### Following are the steps followed to deploy the model on to heroku
 
 Sign up for a free account at Heroku
 
@@ -96,5 +97,6 @@ Heroku in the background runs all the dependencies and installs them. For free v
 
 Once everything goes well our model will be deployed and we can view our link deploy it
 
-# check our densenet implementation
+### check our densenet implementation
+
 https://github.com/belsarej/Densenet-implemetation
