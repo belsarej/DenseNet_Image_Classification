@@ -1,4 +1,14 @@
 # Densenet-implemetation
+
+Group 7	
+
+E20014	Jayesh Belsare
+E20035	Sumeet Kumar
+D19038 	Yash Chaudhary
+E20008	Debyendu Dey
+E20016	Mohammed Rizwan Nagauri
+
+
 We used CIFAR-10 dataset for our experiments with DenseNet Architecture.(files presents in densenet impmentation folder)
 
 Hyper Parameters:
